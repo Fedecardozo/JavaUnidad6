@@ -12,7 +12,7 @@ public class Ejercicio10 {
         
         pais = cargar();
         posi = inicio();
-        System.out.println("El pais que contiene es: " + pais[posi-1]);
+        System.out.println("El pais que contiene la posicicion " + posi +" es: " + pais[posi-1]);
         
         
     }
