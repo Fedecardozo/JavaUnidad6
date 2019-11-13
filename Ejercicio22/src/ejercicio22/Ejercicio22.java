@@ -33,7 +33,7 @@ public class Ejercicio22 {
         n = m.substring(0,1);
         r = m.substring(1);
         
-        System.out.println(n.toUpperCase() + r.toLowerCase()+" ");
+        System.out.println(n.toUpperCase() + r.toLowerCase()+". ");
         
     }
     
